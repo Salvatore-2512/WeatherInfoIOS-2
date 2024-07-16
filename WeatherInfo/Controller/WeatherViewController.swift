@@ -27,6 +27,8 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
     @IBAction func searchButtonPressed(_ sender: UIButton) {
         searchTextField.endEditing(true)// the keybpard disappears
 //        print("\(searchTextField.text ?? "No name entered")")// the search text field is an optional string
+        //i am adding another comment
+        
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
