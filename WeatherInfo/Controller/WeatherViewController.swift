@@ -16,7 +16,7 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // this is
+        // this is a comment
         
         searchTextField.delegate = self 
         // notify the view comtroller about what is the user is doing
