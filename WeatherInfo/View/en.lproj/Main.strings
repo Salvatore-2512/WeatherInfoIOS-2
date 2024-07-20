@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Enter the City Name"; ObjectID = "MA4-HV-6BG"; */
+"MA4-HV-6BG.placeholder" = "Enter the City Name";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "kHH-mw-Hi7"; */
+"kHH-mw-Hi7.text" = "21";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "lNu-PD-A3Q"; */
+"lNu-PD-A3Q.text" = "°";
+
+/* Class = "UILabel"; text = "London"; ObjectID = "lva-nF-5H0"; */
+"lva-nF-5H0.text" = "London";
+
+/* Class = "UILabel"; text = "C"; ObjectID = "xXZ-Ty-kmn"; */
+"xXZ-Ty-kmn.text" = "C";
